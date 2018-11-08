@@ -1,0 +1,12 @@
+.button {
+  font-size: 90%
+}
+.low-usage {
+  color: green;
+}
+ .medium-usage {
+  color: orange;
+}
+ .high-usage {
+  color: red;
+}
